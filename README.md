@@ -1,1 +1,1 @@
-# geekbrains-multithread
+# Код с вебинаров по многопоточности
